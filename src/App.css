@@ -1,10 +1,12 @@
 .App {
+  font-family: sans-serif;
   text-align: center;
+  font-weight: 500;
+  font-size: 27px;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.dots {
+  list-style-type: none;
 }
 
 @media (prefers-reduced-motion: no-preference) {
@@ -14,7 +16,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #4d6088;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
