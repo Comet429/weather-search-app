@@ -29,7 +29,7 @@ function App() {
           </a>{" "}
           for{" "}
           <a
-            href="https://app.netlify.com/sites/spontaneous-dragon-099add/overview"
+            href="https://spontaneous-dragon-099add.netlify.app/"
             target="_blank"
             rel="noreferrer"
           >
